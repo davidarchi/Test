@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Android Project\Mimicker\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="D:\Android Project\Mimicker\app\build\intermediates\pre-dexed\arm\debug\internal_impl-23.1.1-c7889ef09230ca6f3084f9cacd541adf6682bb66.jar" />
+    </item>
+    <item
+        jar="D:\Android Project\Mimicker\app\build\intermediates\exploded-aar\com.microsoft.projectoxford\speechrecognition\0.5.0\jars\libs\SpeechSDK.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="56cbf63c170cf0f0d7adb42feb961ec4eaa9bacf">
+        <dex dex="D:\Android Project\Mimicker\app\build\intermediates\pre-dexed\arm\debug\SpeechSDK-834845619471fc936910e937868ad849c12bbd23.jar" />
+    </item>
+    <item
+        jar="D:\Android Project\Mimicker\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="D:\Android Project\Mimicker\app\build\intermediates\pre-dexed\arm\debug\classes-d2e87f642f4715926c186c03da870fa292b2dc6a.jar" />
+    </item>
+    <item
+        jar="D:\Setup\Programing\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="D:\Android Project\Mimicker\app\build\intermediates\pre-dexed\arm\debug\support-annotations-23.1.1-f41f2c6c3c5537a307c7de617849f9d39a3b4197.jar" />
+    </item>
+    <item
+        jar="D:\Android Project\Mimicker\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="D:\Android Project\Mimicker\app\build\intermediates\pre-dexed\arm\debug\classes-7d852e715300c74eb5d31e0c62756dfa02a15844.jar" />
+    </item>
+    <item
+        jar="C:\Users\Van\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.4.0\5b72bf48563ea8410e650de14aa33ff69a3e8c35\okio-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5b72bf48563ea8410e650de14aa33ff69a3e8c35">
+        <dex dex="D:\Android Project\Mimicker\app\build\intermediates\pre-dexed\arm\debug\okio-1.4.0-a8bdd299b908a94863b00172fda3a31b2935f897.jar" />
+    </item>
+    <item
+        jar="C:\Users\Van\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="D:\Android Project\Mimicker\app\build\intermediates\pre-dexed\arm\debug\gson-2.3.1-d7527a31052f38810650dca822e23d8add8f5d5e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Van\.gradle\caches\modules-2\files-2.1\com.ibm.icu\icu4j\56.1\8dd6671f52165a0419e6de5e1016400875a90fa9\icu4j-56.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8dd6671f52165a0419e6de5e1016400875a90fa9">
+        <dex dex="D:\Android Project\Mimicker\app\build\intermediates\pre-dexed\arm\debug\icu4j-56.1-1b217bd855138917044944292c22ecc3c84419b6.jar" />
+    </item>
+    <item
+        jar="D:\Android Project\Mimicker\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="D:\Android Project\Mimicker\app\build\intermediates\pre-dexed\arm\debug\classes-214ed357c82713a20766804d7b0ee4d1b66dfe1b.jar" />
+    </item>
+    <item
+        jar="D:\Android Project\Mimicker\app\build\intermediates\exploded-aar\com.android.support\preference-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b03135a5ed6b57ecc9cb8f30028deeeb3b869a74">
+        <dex dex="D:\Android Project\Mimicker\app\build\intermediates\pre-dexed\arm\debug\classes-8fdbe69128189872e21ab8d7cb16199c1441d33a.jar" />
+    </item>
+    <item
+        jar="D:\Android Project\Mimicker\app\build\intermediates\exploded-aar\com.microsoft.projectoxford\speechrecognition\0.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f00b9d8d2ac7fb7dae1e25a35ac369c7cdaa81a6">
+        <dex dex="D:\Android Project\Mimicker\app\build\intermediates\pre-dexed\arm\debug\classes-24c80b6d81a2d37b357e4c2e7b0d3a11f92bcda8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Van\.gradle\caches\modules-2\files-2.1\org.apache.commons\commons-lang3\3.4\5fe28b9518e58819180a43a850fbc0dd24b7c050\commons-lang3-3.4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5fe28b9518e58819180a43a850fbc0dd24b7c050">
+        <dex dex="D:\Android Project\Mimicker\app\build\intermediates\pre-dexed\arm\debug\commons-lang3-3.4-17f6e72313d42a7051100f66e1f71dd097b8af06.jar" />
+    </item>
+    <item
+        jar="D:\Android Project\Mimicker\app\build\intermediates\exploded-aar\com.microsoft.projectoxford\emotion\0.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="bf4b62aed8a79b88d38c1980f3a287e0e35270fc">
+        <dex dex="D:\Android Project\Mimicker\app\build\intermediates\pre-dexed\arm\debug\classes-28edec7fa813fed69c77e11804432b176d39e8a5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Van\.gradle\caches\modules-2\files-2.1\commons-codec\commons-codec\1.3\fd32786786e2adb664d5ecc965da47629dca14ba\commons-codec-1.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="fd32786786e2adb664d5ecc965da47629dca14ba">
+        <dex dex="D:\Android Project\Mimicker\app\build\intermediates\pre-dexed\arm\debug\commons-codec-1.3-da1857e061538cf808de7214c4073378a5317cc9.jar" />
+    </item>
+    <item
+        jar="D:\Android Project\Mimicker\app\build\intermediates\exploded-aar\net.hockeyapp.android\HockeySDK\3.7.0-beta.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e7b3470ae9723dd6a2123cc2186d725008cee52">
+        <dex dex="D:\Android Project\Mimicker\app\build\intermediates\pre-dexed\arm\debug\classes-809e1dfd1b4ed05d423a32137e6999c3ae517404.jar" />
+    </item>
+    <item
+        jar="D:\Android Project\Mimicker\app\build\intermediates\exploded-aar\com.uservoice\uservoice-android-sdk\1.2.5\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ac6befc0588efd68e4961c86ef4cee6692f8fa72">
+        <dex dex="D:\Android Project\Mimicker\app\build\intermediates\pre-dexed\arm\debug\classes-66d80b9c6cd53131eb56e0694d86787b86631b65.jar" />
+    </item>
+    <item
+        jar="D:\Android Project\Mimicker\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="D:\Android Project\Mimicker\app\build\intermediates\pre-dexed\arm\debug\classes-566c918146f6476d707c5f1d58abeae08fb4cc92.jar" />
+    </item>
+    <item
+        jar="C:\Users\Van\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.4.0\40340c0748190fe897baf7bffbc1b282734294e5\okhttp-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="40340c0748190fe897baf7bffbc1b282734294e5">
+        <dex dex="D:\Android Project\Mimicker\app\build\intermediates\pre-dexed\arm\debug\okhttp-2.4.0-41ac3df327ef5ee04c0bce1321979cd778e91c3e.jar" />
+    </item>
+    <item
+        jar="D:\Android Project\Mimicker\app\build\intermediates\exploded-aar\com.microsoft.projectoxford\vision\0.5.0\jars\libs\commons-io-2.4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="D:\Android Project\Mimicker\app\build\intermediates\pre-dexed\arm\debug\commons-io-2.4-a3592267317594e4c439a8b2f5b572a039ab9e68.jar" />
+    </item>
+    <item
+        jar="D:\Android Project\Mimicker\app\build\intermediates\exploded-aar\com.mixpanel.android\mixpanel-android\4.6.4\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0adb9447509bdd9a674c1c3e7e5ee996247df478">
+        <dex dex="D:\Android Project\Mimicker\app\build\intermediates\pre-dexed\arm\debug\classes-2513cfdbe1cd1bc92f86151d3d39265b80e40322.jar" />
+    </item>
+    <item
+        jar="D:\Android Project\Mimicker\app\build\intermediates\exploded-aar\com.microsoft.projectoxford\vision\0.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="788fac52e635d3143d1ac5a871af4b447e9b7822">
+        <dex dex="D:\Android Project\Mimicker\app\build\intermediates\pre-dexed\arm\debug\classes-55d6e087ac48c8ce768b29d4d335a285f79067f3.jar" />
+    </item>
+    <item
+        jar="D:\Android Project\Mimicker\app\build\intermediates\exploded-aar\com.android.support\preference-v14\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d5cdc8b1248c128d93090909341ef101147fc691">
+        <dex dex="D:\Android Project\Mimicker\app\build\intermediates\pre-dexed\arm\debug\classes-61497e6697c3dd839f9dac048965753ff715049e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Van\.gradle\caches\modules-2\files-2.1\oauth.signpost\signpost-core\1.2.1.2\bf95955dcf3d5a78c201e49b0c336787ea73f161\signpost-core-1.2.1.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="bf95955dcf3d5a78c201e49b0c336787ea73f161">
+        <dex dex="D:\Android Project\Mimicker\app\build\intermediates\pre-dexed\arm\debug\signpost-core-1.2.1.2-911d9f90b5bf8cbaf2978d6003ab1906ce665198.jar" />
+    </item>
+
+</items>
